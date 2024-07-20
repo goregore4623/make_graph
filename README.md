@@ -1,7 +1,7 @@
 # matplotlibでグラフを作成するプログラム
 
 ## environment
-python 3.9.10 \
+python 3.9.10 
 
 ## Installation
 ```bash
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```bash
 python make_bar_graph.py \
 -d ${HOME}/make_graph/data/bar_data.csv \
--o ${HOME}/ffmpeg-visualize/results \
+-o ${HOME}/make_graph/results \
 -p bar_graph
 ```
 
